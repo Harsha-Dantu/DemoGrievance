@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Grievances" language="en" table="x_548740_grievan_0_grievances">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Grievances</label>
+            <language>en</language>
+            <name>x_548740_grievan_0_grievances</name>
+            <plural>Grievances</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-09-19 13:00:45</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Grievances</sys_name>
+            <sys_package display_value="Grievance Redressal Application" source="x_548740_grievan_0">252f5b68837c1a502578f1e6feaad31e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</sys_scope>
+            <sys_update_name>sys_documentation_x_548740_grievan_0_grievances__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-09-19 13:00:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

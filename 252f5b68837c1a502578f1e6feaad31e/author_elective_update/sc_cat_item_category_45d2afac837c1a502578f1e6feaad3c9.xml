@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="grievance form">5071236c837c1a502578f1e6feaad3ee</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:13:54</sys_created_on>
+        <sys_id>45d2afac837c1a502578f1e6feaad3c9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.grievance form</sys_name>
+        <sys_package display_value="Grievance Redressal Application" source="x_548740_grievan_0">252f5b68837c1a502578f1e6feaad31e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</sys_scope>
+        <sys_update_name>sc_cat_item_category_45d2afac837c1a502578f1e6feaad3c9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:13:54</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</application>
+        <file_path/>
+        <instance_id>453ea6b2db52f55492f5684e139619c1</instance_id>
+        <instance_name>dev208129</instance_name>
+        <name>sc_cat_item_category_45d2afac837c1a502578f1e6feaad3c9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="grievance form">5071236c837c1a502578f1e6feaad3ee</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-19 13:13:54</sys_created_on><sys_id>45d2afac837c1a502578f1e6feaad3c9</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.grievance form</sys_name><sys_package display_value="Grievance Redressal Application" source="x_548740_grievan_0">252f5b68837c1a502578f1e6feaad31e</sys_package><sys_policy/><sys_scope display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</sys_scope><sys_update_name>sc_cat_item_category_45d2afac837c1a502578f1e6feaad3c9</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-19 13:13:54</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1644015465</payload_hash>
+        <record_name>Can We Help You?.grievance form</record_name>
+        <reverted_from/>
+        <source>ad2f5b68837c1a502578f1e6feaad31f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:13:54</sys_created_on>
+        <sys_id>49d2afac837c1a502578f1e6feaad3cd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1920a6af5ed0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:13:54</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>89d2afac5a7c1a50459aee7c3c229dcc</update_guid>
+        <update_guid_history>89d2afac5a7c1a50459aee7c3c229dcc:1644015465</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.grievance form">4645eb2083fc1a502578f1e6feaad322</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:24:38</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>a372510e46a7488081d056073e36c390</sys_id>
+        <sys_metadata>45d2afac837c1a502578f1e6feaad3c9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.grievance form</sys_name>
+        <sys_package display_value="Grievance Redressal Application" source="x_548740_grievan_0">252f5b68837c1a502578f1e6feaad31e</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</sys_scope>
+        <sys_scope_delete display_value="">3082e3dc7aa34ebd84895b312de96709</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_45d2afac837c1a502578f1e6feaad3c9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_45d2afac837c1a502578f1e6feaad3c9">49d2afac837c1a502578f1e6feaad3cd</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:24:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="58df5fa8837c1a502578f1e6feaad357" label="Grievances" max_length="40" name="x_548740_grievan_0_grievances" type="collection">
+        <element label="Describe Grievance" max_length="40" name="describe_grievance" type="string"/>
+        <element label="Redressal Group" max_length="32" name="redressal_group" reference="sys_user_group" type="reference"/>
+        <index name="index">
+            <element name="redressal_group"/>
+        </index>
+    </element>
+</database>

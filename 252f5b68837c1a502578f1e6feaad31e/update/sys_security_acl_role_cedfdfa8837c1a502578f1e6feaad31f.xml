@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-19 13:00:52</sys_created_on>
+        <sys_id>cedfdfa8837c1a502578f1e6feaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_548740_grievan_0_grievances.x_548740_grievan_0.admin</sys_name>
+        <sys_package display_value="Grievance Redressal Application" source="x_548740_grievan_0">252f5b68837c1a502578f1e6feaad31e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Grievance Redressal Application">252f5b68837c1a502578f1e6feaad31e</sys_scope>
+        <sys_security_acl display_value="x_548740_grievan_0_grievances">39dfdfa8837c1a502578f1e6feaad31b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cedfdfa8837c1a502578f1e6feaad31f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-19 13:00:52</sys_updated_on>
+        <sys_user_role display_value="x_548740_grievan_0.admin" name="x_548740_grievan_0.admin">f92f5b68837c1a502578f1e6feaad323</sys_user_role>
+    </sys_security_acl_role>
+</record_update>
